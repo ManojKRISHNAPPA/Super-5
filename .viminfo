@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1758984647,,"wq"
+|2,0,1758993579,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,233 +25,261 @@
 # Registers:
 
 # File marks:
-'0  13  0  /opt/sample1.txt
-|4,48,13,0,1758984647,"/opt/sample1.txt"
-'1  13  0  /opt/sample1.txt
-|4,49,13,0,1758984515,"/opt/sample1.txt"
-'2  16  0  /opt/sample1.txt
-|4,50,16,0,1758984392,"/opt/sample1.txt"
-'3  15  0  /opt/sample1.txt
-|4,51,15,0,1758984392,"/opt/sample1.txt"
-'4  16  0  /opt/sample1.txt
-|4,52,16,0,1758984392,"/opt/sample1.txt"
-'5  15  0  /opt/sample1.txt
-|4,53,15,0,1758984392,"/opt/sample1.txt"
-'6  15  0  /opt/sample1.txt
-|4,54,15,0,1758984249,"/opt/sample1.txt"
-'7  15  0  /opt/sample1.txt
-|4,55,15,0,1758984249,"/opt/sample1.txt"
-'8  14  0  /opt/sample1.txt
-|4,56,14,0,1758984249,"/opt/sample1.txt"
-'9  14  0  /opt/sample1.txt
-|4,57,14,0,1758984249,"/opt/sample1.txt"
+'0  2  0  ~/sugan/Super-5/Ms.txt
+|4,48,2,0,1758993579,"~/sugan/Super-5/Ms.txt"
+'1  7  0  ~/sugan/Super-5/sha.txt
+|4,49,7,0,1758993324,"~/sugan/Super-5/sha.txt"
+'2  6  0  /sus.txt
+|4,50,6,0,1758990081,"/sus.txt"
+'3  3  0  /opt/sampl2.txt
+|4,51,3,0,1758987541,"/opt/sampl2.txt"
+'4  13  0  /opt/sample1.txt
+|4,52,13,0,1758987181,"/opt/sample1.txt"
+'5  13  0  /opt/sample1.txt
+|4,53,13,0,1758984647,"/opt/sample1.txt"
+'6  13  0  /opt/sample1.txt
+|4,54,13,0,1758984515,"/opt/sample1.txt"
+'7  13  0  /opt/sample1.txt
+|4,55,13,0,1758984515,"/opt/sample1.txt"
+'8  16  0  /opt/sample1.txt
+|4,56,16,0,1758984392,"/opt/sample1.txt"
+'9  15  0  /opt/sample1.txt
+|4,57,15,0,1758984392,"/opt/sample1.txt"
 
 # Jumplist (newest first):
+-'  2  0  ~/sugan/Super-5/Ms.txt
+|4,39,2,0,1758993579,"~/sugan/Super-5/Ms.txt"
+-'  1  0  ~/sugan/Super-5/Ms.txt
+|4,39,1,0,1758993566,"~/sugan/Super-5/Ms.txt"
+-'  7  0  ~/sugan/Super-5/sha.txt
+|4,39,7,0,1758993324,"~/sugan/Super-5/sha.txt"
+-'  7  0  ~/sugan/Super-5/sha.txt
+|4,39,7,0,1758993324,"~/sugan/Super-5/sha.txt"
+-'  1  0  ~/sugan/Super-5/sha.txt
+|4,39,1,0,1758993285,"~/sugan/Super-5/sha.txt"
+-'  1  0  ~/sugan/Super-5/sha.txt
+|4,39,1,0,1758993285,"~/sugan/Super-5/sha.txt"
+-'  6  0  /sus.txt
+|4,39,6,0,1758990081,"/sus.txt"
+-'  6  0  /sus.txt
+|4,39,6,0,1758990081,"/sus.txt"
+-'  6  0  /sus.txt
+|4,39,6,0,1758990081,"/sus.txt"
+-'  6  0  /sus.txt
+|4,39,6,0,1758990081,"/sus.txt"
+-'  1  0  /sus.txt
+|4,39,1,0,1758990026,"/sus.txt"
+-'  1  0  /sus.txt
+|4,39,1,0,1758990026,"/sus.txt"
+-'  1  0  /sus.txt
+|4,39,1,0,1758990026,"/sus.txt"
+-'  1  0  /sus.txt
+|4,39,1,0,1758990026,"/sus.txt"
+-'  3  0  /opt/sampl2.txt
+|4,39,3,0,1758987541,"/opt/sampl2.txt"
+-'  3  0  /opt/sampl2.txt
+|4,39,3,0,1758987541,"/opt/sampl2.txt"
+-'  3  0  /opt/sampl2.txt
+|4,39,3,0,1758987541,"/opt/sampl2.txt"
+-'  3  0  /opt/sampl2.txt
+|4,39,3,0,1758987541,"/opt/sampl2.txt"
+-'  3  0  /opt/sampl2.txt
+|4,39,3,0,1758987541,"/opt/sampl2.txt"
+-'  3  0  /opt/sampl2.txt
+|4,39,3,0,1758987541,"/opt/sampl2.txt"
+-'  3  0  /opt/sampl2.txt
+|4,39,3,0,1758987541,"/opt/sampl2.txt"
+-'  3  0  /opt/sampl2.txt
+|4,39,3,0,1758987541,"/opt/sampl2.txt"
+-'  1  0  /opt/sampl2.txt
+|4,39,1,0,1758987513,"/opt/sampl2.txt"
+-'  1  0  /opt/sampl2.txt
+|4,39,1,0,1758987513,"/opt/sampl2.txt"
+-'  1  0  /opt/sampl2.txt
+|4,39,1,0,1758987513,"/opt/sampl2.txt"
+-'  1  0  /opt/sampl2.txt
+|4,39,1,0,1758987513,"/opt/sampl2.txt"
+-'  1  0  /opt/sampl2.txt
+|4,39,1,0,1758987513,"/opt/sampl2.txt"
+-'  1  0  /opt/sampl2.txt
+|4,39,1,0,1758987513,"/opt/sampl2.txt"
+-'  1  0  /opt/sampl2.txt
+|4,39,1,0,1758987513,"/opt/sampl2.txt"
+-'  1  0  /opt/sampl2.txt
+|4,39,1,0,1758987513,"/opt/sampl2.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758987181,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758987181,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758987181,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758987181,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758987181,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758987181,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758987181,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758987181,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758987181,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758987181,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758987181,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758987181,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758987181,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758987181,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758987181,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758987181,"/opt/sample1.txt"
 -'  13  0  /opt/sample1.txt
 |4,39,13,0,1758984647,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758984647,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758984647,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758984647,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758984647,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758984647,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758984647,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758984647,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758984647,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758984647,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758984647,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758984647,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758984647,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758984647,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758984647,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758984647,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758984515,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758984515,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758984515,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758984515,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758984515,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758984515,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758984515,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758984515,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758984515,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758984515,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758984515,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758984515,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758984515,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758984515,"/opt/sample1.txt"
+-'  13  0  /opt/sample1.txt
+|4,39,13,0,1758984515,"/opt/sample1.txt"
 -'  13  0  /opt/sample1.txt
 |4,39,13,0,1758984515,"/opt/sample1.txt"
 -'  16  0  /opt/sample1.txt
 |4,39,16,0,1758984466,"/opt/sample1.txt"
 -'  16  0  /opt/sample1.txt
 |4,39,16,0,1758984466,"/opt/sample1.txt"
--'  15  0  /opt/sample1.txt
-|4,39,15,0,1758984392,"/opt/sample1.txt"
--'  15  0  /opt/sample1.txt
-|4,39,15,0,1758984392,"/opt/sample1.txt"
--'  14  0  /opt/sample1.txt
-|4,39,14,0,1758984365,"/opt/sample1.txt"
--'  15  0  /opt/sample1.txt
-|4,39,15,0,1758984365,"/opt/sample1.txt"
--'  14  0  /opt/sample1.txt
-|4,39,14,0,1758984365,"/opt/sample1.txt"
--'  14  0  /opt/sample1.txt
-|4,39,14,0,1758984249,"/opt/sample1.txt"
--'  14  37  /opt/sample1.txt
-|4,39,14,37,1758984202,"/opt/sample1.txt"
--'  13  37  /opt/sample1.txt
-|4,39,13,37,1758984202,"/opt/sample1.txt"
--'  13  37  /opt/sample1.txt
-|4,39,13,37,1758984202,"/opt/sample1.txt"
--'  19  0  /opt/sample1.txt
-|4,39,19,0,1758984149,"/opt/sample1.txt"
--'  18  0  /opt/sample1.txt
-|4,39,18,0,1758984149,"/opt/sample1.txt"
--'  17  0  /opt/sample1.txt
-|4,39,17,0,1758984149,"/opt/sample1.txt"
--'  19  0  /opt/sample1.txt
-|4,39,19,0,1758984149,"/opt/sample1.txt"
--'  18  0  /opt/sample1.txt
-|4,39,18,0,1758984149,"/opt/sample1.txt"
--'  18  0  /opt/sample1.txt
-|4,39,18,0,1758984149,"/opt/sample1.txt"
--'  17  0  /opt/sample1.txt
-|4,39,17,0,1758984149,"/opt/sample1.txt"
--'  10  0  /opt/sample1.txt
-|4,39,10,0,1758984108,"/opt/sample1.txt"
--'  10  0  /opt/sample1.txt
-|4,39,10,0,1758984108,"/opt/sample1.txt"
--'  10  0  /opt/sample1.txt
-|4,39,10,0,1758984108,"/opt/sample1.txt"
--'  10  0  /opt/sample1.txt
-|4,39,10,0,1758984108,"/opt/sample1.txt"
--'  10  0  /opt/sample1.txt
-|4,39,10,0,1758984108,"/opt/sample1.txt"
--'  10  0  /opt/sample1.txt
-|4,39,10,0,1758983792,"/opt/sample1.txt"
--'  8  0  /opt/sample1.txt
-|4,39,8,0,1758983769,"/opt/sample1.txt"
--'  8  0  /opt/sample1.txt
-|4,39,8,0,1758983769,"/opt/sample1.txt"
--'  8  0  /opt/sample1.txt
-|4,39,8,0,1758983769,"/opt/sample1.txt"
--'  8  0  /opt/sample1.txt
-|4,39,8,0,1758983769,"/opt/sample1.txt"
--'  8  0  /opt/sample1.txt
-|4,39,8,0,1758983769,"/opt/sample1.txt"
--'  8  0  /opt/sample1.txt
-|4,39,8,0,1758983769,"/opt/sample1.txt"
--'  8  0  /opt/sample1.txt
-|4,39,8,0,1758983656,"/opt/sample1.txt"
--'  4  0  /opt/sample1.txt
-|4,39,4,0,1758983617,"/opt/sample1.txt"
--'  4  0  /opt/sample1.txt
-|4,39,4,0,1758983617,"/opt/sample1.txt"
--'  4  0  /opt/sample1.txt
-|4,39,4,0,1758983617,"/opt/sample1.txt"
--'  4  0  /opt/sample1.txt
-|4,39,4,0,1758983617,"/opt/sample1.txt"
--'  4  0  /opt/sample1.txt
-|4,39,4,0,1758983617,"/opt/sample1.txt"
--'  4  0  /opt/sample1.txt
-|4,39,4,0,1758983617,"/opt/sample1.txt"
--'  4  0  /opt/sample1.txt
-|4,39,4,0,1758983617,"/opt/sample1.txt"
--'  4  0  /opt/sample1.txt
-|4,39,4,0,1758983567,"/opt/sample1.txt"
--'  3  0  /opt/sample1.txt
-|4,39,3,0,1758983555,"/opt/sample1.txt"
--'  3  0  /opt/sample1.txt
-|4,39,3,0,1758983555,"/opt/sample1.txt"
--'  3  0  /opt/sample1.txt
-|4,39,3,0,1758983555,"/opt/sample1.txt"
--'  3  0  /opt/sample1.txt
-|4,39,3,0,1758983555,"/opt/sample1.txt"
--'  3  0  /opt/sample1.txt
-|4,39,3,0,1758983555,"/opt/sample1.txt"
--'  3  0  /opt/sample1.txt
-|4,39,3,0,1758983555,"/opt/sample1.txt"
--'  3  0  /opt/sample1.txt
-|4,39,3,0,1758983555,"/opt/sample1.txt"
--'  3  0  /opt/sample1.txt
-|4,39,3,0,1758983555,"/opt/sample1.txt"
--'  3  0  /opt/sample1.txt
-|4,39,3,0,1758983172,"/opt/sample1.txt"
--'  2  0  /opt/sample1.txt
-|4,39,2,0,1758983158,"/opt/sample1.txt"
--'  2  0  /opt/sample1.txt
-|4,39,2,0,1758983158,"/opt/sample1.txt"
--'  2  0  /opt/sample1.txt
-|4,39,2,0,1758983158,"/opt/sample1.txt"
--'  2  0  /opt/sample1.txt
-|4,39,2,0,1758983158,"/opt/sample1.txt"
--'  2  0  /opt/sample1.txt
-|4,39,2,0,1758983158,"/opt/sample1.txt"
--'  2  0  /opt/sample1.txt
-|4,39,2,0,1758983158,"/opt/sample1.txt"
--'  2  0  /opt/sample1.txt
-|4,39,2,0,1758983158,"/opt/sample1.txt"
--'  2  0  /opt/sample1.txt
-|4,39,2,0,1758983158,"/opt/sample1.txt"
--'  2  0  /opt/sample1.txt
-|4,39,2,0,1758983158,"/opt/sample1.txt"
--'  2  0  /opt/sample1.txt
-|4,39,2,0,1758983103,"/opt/sample1.txt"
--'  1  0  /opt/sample1.txt
-|4,39,1,0,1758983086,"/opt/sample1.txt"
--'  1  0  /opt/sample1.txt
-|4,39,1,0,1758983086,"/opt/sample1.txt"
--'  1  0  /opt/sample1.txt
-|4,39,1,0,1758983086,"/opt/sample1.txt"
--'  1  0  /opt/sample1.txt
-|4,39,1,0,1758983086,"/opt/sample1.txt"
--'  1  0  /opt/sample1.txt
-|4,39,1,0,1758983086,"/opt/sample1.txt"
--'  1  0  /opt/sample1.txt
-|4,39,1,0,1758983086,"/opt/sample1.txt"
--'  1  0  /opt/sample1.txt
-|4,39,1,0,1758983086,"/opt/sample1.txt"
--'  1  0  /opt/sample1.txt
-|4,39,1,0,1758983086,"/opt/sample1.txt"
--'  1  0  /opt/sample1.txt
-|4,39,1,0,1758983086,"/opt/sample1.txt"
--'  1  0  /opt/sample1.txt
-|4,39,1,0,1758983086,"/opt/sample1.txt"
--'  39  3  ~/cal.sh
-|4,39,39,3,1758732003,"~/cal.sh"
--'  39  3  ~/cal.sh
-|4,39,39,3,1758732003,"~/cal.sh"
--'  39  3  ~/cal.sh
-|4,39,39,3,1758732003,"~/cal.sh"
--'  39  3  ~/cal.sh
-|4,39,39,3,1758732003,"~/cal.sh"
--'  39  3  ~/cal.sh
-|4,39,39,3,1758732003,"~/cal.sh"
--'  39  3  ~/cal.sh
-|4,39,39,3,1758732003,"~/cal.sh"
--'  39  3  ~/cal.sh
-|4,39,39,3,1758732003,"~/cal.sh"
--'  39  3  ~/cal.sh
-|4,39,39,3,1758732003,"~/cal.sh"
--'  39  3  ~/cal.sh
-|4,39,39,3,1758732003,"~/cal.sh"
--'  39  3  ~/cal.sh
-|4,39,39,3,1758732003,"~/cal.sh"
--'  39  3  ~/cal.sh
-|4,39,39,3,1758732003,"~/cal.sh"
--'  39  3  ~/cal.sh
-|4,39,39,3,1758732003,"~/cal.sh"
--'  39  3  ~/cal.sh
-|4,39,39,3,1758732003,"~/cal.sh"
--'  39  3  ~/cal.sh
-|4,39,39,3,1758732003,"~/cal.sh"
--'  39  3  ~/cal.sh
-|4,39,39,3,1758732003,"~/cal.sh"
--'  39  3  ~/cal.sh
-|4,39,39,3,1758732003,"~/cal.sh"
--'  39  3  ~/cal.sh
-|4,39,39,3,1758732003,"~/cal.sh"
--'  39  3  ~/cal.sh
-|4,39,39,3,1758732003,"~/cal.sh"
--'  39  3  ~/cal.sh
-|4,39,39,3,1758732003,"~/cal.sh"
--'  39  3  ~/cal.sh
-|4,39,39,3,1758732003,"~/cal.sh"
--'  39  3  ~/cal.sh
-|4,39,39,3,1758732003,"~/cal.sh"
--'  39  3  ~/cal.sh
-|4,39,39,3,1758732003,"~/cal.sh"
--'  39  3  ~/cal.sh
-|4,39,39,3,1758732003,"~/cal.sh"
--'  39  3  ~/cal.sh
-|4,39,39,3,1758732003,"~/cal.sh"
--'  39  3  ~/cal.sh
-|4,39,39,3,1758732003,"~/cal.sh"
--'  39  3  ~/cal.sh
-|4,39,39,3,1758732003,"~/cal.sh"
--'  39  3  ~/cal.sh
-|4,39,39,3,1758732003,"~/cal.sh"
--'  39  3  ~/cal.sh
-|4,39,39,3,1758732003,"~/cal.sh"
--'  39  3  ~/cal.sh
-|4,39,39,3,1758732003,"~/cal.sh"
--'  39  3  ~/cal.sh
-|4,39,39,3,1758732003,"~/cal.sh"
+-'  16  0  /opt/sample1.txt
+|4,39,16,0,1758984466,"/opt/sample1.txt"
+-'  16  0  /opt/sample1.txt
+|4,39,16,0,1758984466,"/opt/sample1.txt"
+-'  16  0  /opt/sample1.txt
+|4,39,16,0,1758984466,"/opt/sample1.txt"
+-'  16  0  /opt/sample1.txt
+|4,39,16,0,1758984466,"/opt/sample1.txt"
+-'  16  0  /opt/sample1.txt
+|4,39,16,0,1758984466,"/opt/sample1.txt"
+-'  16  0  /opt/sample1.txt
+|4,39,16,0,1758984466,"/opt/sample1.txt"
+-'  16  0  /opt/sample1.txt
+|4,39,16,0,1758984466,"/opt/sample1.txt"
+-'  16  0  /opt/sample1.txt
+|4,39,16,0,1758984466,"/opt/sample1.txt"
+-'  16  0  /opt/sample1.txt
+|4,39,16,0,1758984466,"/opt/sample1.txt"
+-'  16  0  /opt/sample1.txt
+|4,39,16,0,1758984466,"/opt/sample1.txt"
+-'  16  0  /opt/sample1.txt
+|4,39,16,0,1758984466,"/opt/sample1.txt"
+-'  16  0  /opt/sample1.txt
+|4,39,16,0,1758984466,"/opt/sample1.txt"
+-'  16  0  /opt/sample1.txt
+|4,39,16,0,1758984466,"/opt/sample1.txt"
+-'  16  0  /opt/sample1.txt
+|4,39,16,0,1758984466,"/opt/sample1.txt"
+-'  16  0  /opt/sample1.txt
+|4,39,16,0,1758984466,"/opt/sample1.txt"
+-'  16  0  /opt/sample1.txt
+|4,39,16,0,1758984466,"/opt/sample1.txt"
+-'  16  0  /opt/sample1.txt
+|4,39,16,0,1758984466,"/opt/sample1.txt"
+-'  16  0  /opt/sample1.txt
+|4,39,16,0,1758984466,"/opt/sample1.txt"
+-'  16  0  /opt/sample1.txt
+|4,39,16,0,1758984466,"/opt/sample1.txt"
+-'  16  0  /opt/sample1.txt
+|4,39,16,0,1758984466,"/opt/sample1.txt"
 
 # History of marks within files (newest to oldest):
 
+> ~/sugan/Super-5/Ms.txt
+	*	1758993576	0
+	"	2	0
+	^	2	0
+	.	1	14
+	+	1	14
+
+> ~/sugan/Super-5/sha.txt
+	*	1758993320	0
+	"	7	0
+	^	7	0
+	.	6	15
+	+	6	15
+
+> /sus.txt
+	*	1758990062	0
+	"	6	0
+	^	6	0
+	.	5	20
+	+	5	20
+
+> /opt/sampl2.txt
+	*	1758987538	0
+	"	3	0
+	^	3	0
+	.	2	5
+	+	2	5
+
 > /opt/sample1.txt
-	*	1758984641	0
+	*	1758987176	0
 	"	13	0
 	^	13	0
 	.	14	11

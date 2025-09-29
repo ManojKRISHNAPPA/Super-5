@@ -144,3 +144,161 @@ cd /opt/
 cd sample1.txt
 cd shali.txt
 git log -p
+ls
+git add .
+git init
+git add .
+cd /opt/
+cd shali.txt
+cd/
+cd shali.txt
+ls
+cd sample1.txt
+ls
+vi sample1.txt
+git add .
+git commit -m "diff4"
+git log
+git push
+git remote -v
+git add .
+git commit -m "dii"
+git clone
+touch sample2.txt
+git add .
+git commit -m "shalini file is updated"
+vi sampl2.txt
+git add .
+git commit -m "fist add"
+exit
+ls
+cd/
+cd /
+cd SS1.sh
+cd SS1.sh/
+git init
+ls -a
+tocuch su.txt
+touch sus.txt
+git add sus.txt
+git commit -m "My first commit GitHub"
+git status
+git log
+vi sus.txt
+git add sus.txt
+git commit -m "My second commit:"
+git log -p
+mkdir SS1.sh
+cd /
+cd ss1.sh
+cd ss1/
+ls
+cd ss1
+cd ss1/
+cd SS1/
+sudo su -
+ls
+git -v
+git init
+ls -a
+git status
+git rm --cached
+user1
+apt install
+cd /opt/
+cd shalu.txt
+mdkir shalu.txt
+ls
+cd sample1.txt
+ls -a
+touch sample3.txt
+git status
+git add .
+git commit -m "Fist sample edit:"
+sudo - su
+sudo su -
+ls
+mkdir diva
+cd diva/
+ls
+touch viji.txt>>"This is my git"
+git add viji.txt
+git commit -m "only hit git"
+git status
+touch diva1.txt>>"This my second commit"
+git add diva1.txt
+git commit -m "added commit by shalini"
+git clone https://github.com/ManojKRISHNAPPA/Super-5.git
+cd git push diva1.txt viji.txt
+git push viji.txt
+git push
+git push viji.txt
+git remote add viji.txt
+git push viji.txt
+git remote -v
+git remote add https://github.com/ManojKRISHNAPPA/Super-5.git
+cd Super-5/
+ls
+touch viji1.sh>>"This my fiel***"
+git add viji1.sh
+git commit -m "Shalini file is updated"
+git push
+git pull
+git push
+git clone https://github.com/ManojKRISHNAPPA/Super-5.git
+git push
+git pull origin main
+git push
+git pull
+git config --global
+git remote -v
+git pusj
+git push
+git clone https://github.com/ManojKRISHNAPPA/Super-5.git
+touch SS14.txt
+git add .
+rm -r diva
+cd /
+ls
+cd ~
+ls
+rm -r diva
+ls
+mkdir sugan
+cd sugan/
+git clone https://github.com/ManojKRISHNAPPA/Super-5.git
+cd Super-5/
+touch sha.txt
+git add .
+git commit -m "This my git"
+git push
+cat sha.txt
+ls
+git status
+vi sha.txt
+git add .
+git commit -m "commit updated by shalini"
+git push
+vi Ms.txt
+git add .
+git commit -m "updated"
+git push
+ls -l
+ls -a
+git log -p
+git config --global --edit
+git commit --amend --reset-author
+git push
+git pull
+git push
+git push --help
+exit
+ls
+cd ..
+ls
+cd /opt/
+ls
+ls -a
+cd diva/
+rm - rf*
+exit
