@@ -1,0 +1,42 @@
+pipeline{
+  agent any
+
+  stages{
+    stage('hello'){
+      steps{
+        sh '''
+          uptime
+          date
+          echo "hello world ..."
+        '''
+      }
+    }
+    stage('Karthik'){
+      steps{
+        sh '''
+          uptime
+          date
+          echo "hello Karthik ..."
+        '''
+      }
+    }
+    stage('Shalini'){
+      steps{
+        sh '''
+          uptime
+          date
+          echo "hello Shalini ..."
+        '''
+      }
+    }
+    stage('Arun'){
+      steps{
+        sh '''
+          uptime
+          date
+          echo "hello Arun ..."
+        '''
+      }
+    }    
+  }
+}
