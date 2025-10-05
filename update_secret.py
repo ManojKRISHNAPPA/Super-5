@@ -22,7 +22,7 @@ def update_secret(secret_name, secret_value, region_name='us-east-1'):
                 Name=secret_name,
                 SecretString=secret_value
             )
-            print(f"✅ Secret '{secret_name}' created successfully.")
+            print(f"Secret '{secret_name}' created successfully.")
             return response
         else:
             raise e
