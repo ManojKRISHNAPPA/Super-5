@@ -37,6 +37,15 @@ pipeline{
           echo "hello Arun ..."
         '''
       }
-    }    
+    }  
+    stage('Manoj'){
+      steps{
+        sh '''
+          uptime
+          date
+          echo "hello Manoj ..."
+        '''
+      }
+    }       
   }
 }
