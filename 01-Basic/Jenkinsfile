@@ -5,8 +5,8 @@ pipeline{
     stages{
         stage('Hello'){
             steps{
-                sh '''
-                    echo "Hello guys good Morning....!!!
+                sh'''
+                    echo "Hello world...!!!"
                 '''
             }
         }
