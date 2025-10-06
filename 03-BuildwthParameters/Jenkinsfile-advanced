@@ -1,0 +1,46 @@
+pipeline{
+    agent any
+
+    parameters{
+        choice(
+            name: 'ENV',
+            choices: ['DEV','UAT','PROD','PREPROD'],
+            description: 'select the deployment environment'
+        )
+    }
+
+    stages{
+        stage('Deploy'){
+            steps{
+                echo "Deploying to ${params.ENV} environment"
+            
+            // adding the logic to switch env 
+            script{
+                switch(params.ENV){
+                    case 'DEV': 
+                    echo "Running on dev env.."
+                    // sh 'depoy-dev.sh'
+                    break
+                    case 'UAT': 
+                    echo "Running on UAT env.."
+                    // sh 'depoy-uat.sh'
+                    break
+                    case 'PROD': 
+                    echo "Running on PROD env.."
+                    // sh 'depoy-prod.sh'
+                    break
+                    case 'PREPROD': 
+                    echo "Running on PREPROD env.."
+                    // sh 'depoy-preprod.sh'
+                    break
+                    default:
+                    echo "Invalid env selected"
+                }
+
+            }
+            
+            
+            }
+        }
+    }
+}
