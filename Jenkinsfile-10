@@ -1,0 +1,20 @@
+pipeline
+{
+   agent any
+
+parameters{
+      string(name:'name',defaultValue:'Karthik',description:'Helloo dude')
+}
+
+  stages
+{
+ stage('Gen-01')
+{
+  steps
+{
+       echo "This is $(params.name) boss file"
+}
+
+}
+}
+}
