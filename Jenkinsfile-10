@@ -12,7 +12,7 @@ parameters{
 {
   steps
 {
-       echo "This is $(params.name) boss file"
+       echo "This is ${params.name} boss file"
 }
 
 }
