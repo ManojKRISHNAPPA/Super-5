@@ -2,7 +2,7 @@ pipeline
 {
    agent any
   stages{
-stage("Basic GJ01")
+stage('Basic GJ01')
 {
 steps
 {
