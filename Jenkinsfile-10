@@ -3,7 +3,7 @@ pipeline
    agent any
 
 parameters{
-     choice (name:'name',choices:['mithuna','ajith','arun'],description:'Hello guy's')
+     choice (name:'name',choices:['mithuna','ajith','arun'],description:'Hello guy')
 }
 
   stages
