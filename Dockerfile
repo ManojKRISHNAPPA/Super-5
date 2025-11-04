@@ -6,8 +6,8 @@ COPY . /app/
 
 RUN apt-get update && apt-get install -y \
     build-essential \
-    libg11 \
-    libglib2.0-0
+    libgl1 \
+    libglib2.0-0 \
 
 RUN pip install --upgrade pip && pip install -r requirements.txt
 
