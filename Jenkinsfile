@@ -24,6 +24,8 @@ pipeline{
         stage('Testing-stage'){
             steps{
                 sh'''
+                    docker stop chatbot
+                    docker rm chatbot
                     docker run -it -d --name chatbot -p 8501:8501 ${IMAGE_NAME}
                 '''
             }
